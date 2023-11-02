@@ -17,3 +17,10 @@ better for new programmers and is just more fun to use.
 #### To install:
 1. Download Jetbrains toolbox https://www.jetbrains.com/lp/toolbox/ using all the default options
 2. Locate and download Pycharm
+#### Set up this project:
+1. Click "Get from VCS" at the top 
+2. Click "Repository URL" on the left sidebar
+3. Under "Url" copy: https://github.com/JackCampbell5/LearnPython.git 
+4. Click "Clone"
+5. If asked for a python interpreter click conda and find yours if it exists or create a new one
+6. In the top right corner the thing with the arrow next to it should say "Current File", click and change it to if it does not

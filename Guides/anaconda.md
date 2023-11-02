@@ -17,3 +17,5 @@
 2. Now install your package with "pip install packageName"
 #### List all the packages you have installed
 1. conda list
+### If when installing a dependency get an ssl certificate error
++ Contact me at jdeveloper012@gmail.com
