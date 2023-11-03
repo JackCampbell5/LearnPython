@@ -1,10 +1,10 @@
-# In This Lesson
+# Part One
+## In This Lesson
 #### Printing
 #### Comments
 #### Variables 
 #### Math
 
-# Part One 
 
 ## Part A: Printing 
 + To print all you do is put print("") and whatever you want to print in the ""

@@ -6,19 +6,22 @@
   + "Completed" directory - The examples gone over in this tutorial completed if you get stuck
   + "You Try!" directory - Uncompleted code files that you can use to do this tutorial 
 ## What each lesson covers:
-| Practice <br/> FileName                               | TutorialLink                               | What They Cover        | Completed Code Link                                             |
-|-------------------------------------------------------|--------------------------------------------|------------------------|-----------------------------------------------------------------|
-| [part_one.py](../PythonCode/You Try!/part_one.py)     | [part_one](PythonGuides/part_one_guide.md) | printing and variables | [part_one.py](../PythonCode/Completed/part_one_complete.py)     |
-| [part_two.py](../PythonCode/You Try!/part_two.py)     | [part_two](PythonGuides/part_two.md)       | centered               | [part_two.py](../PythonCode/Completed/part_two_complete.py)     |
-| [part_three.py](../PythonCode/You Try!/part_three.py) | [part_two](PythonGuides/part_two.md)       | are neat               | [part_three.py](../PythonCode/Completed/part_three_complete.py) |
+| Practice <br/> FileName | TutorialLink    | What They Cover                     | Completed Code Link  | 
+|-------------------------|-----------------|-------------------------------------|----------------------|
+| [part_one.py](../PythonCode/You Try!/part_one.py)      | [part_one](PythonGuides/part_one_guide.md) | Printing, Comments, Variables, Math | [part_one.py](../PythonCode/Completed/part_one_complete.py)   |
+| [part_two.py](../PythonCode/You Try!/part_two.py)      | [part_two](PythonGuides/part_two.md) | centered                            | [part_two.py](../PythonCode/Completed/part_two_complete.py)   |
+| [part_three.py](../PythonCode/You Try!/part_three.py)    | [part_two](PythonGuides/part_two.md) | are neat                            | [part_three.py](../PythonCode/Completed/part_three_complete.py) |
 
 ## What we will cover:
 ### Elementary 
++ Printing, Comments, Variables, Math 
++ If Statements
 + Loops
-+ Objects 
++ Methods
 ### Advanced:
 + User interfaces using tk
-+ Classes
++ Objects/Classes
++ Try Except
 
 
 
