@@ -3,14 +3,15 @@
 ## In This Lesson
 #### If statements
 #### If else statements
-#### For Loops
-#### While Loops
+#### User Input
+#### Casting
 
 
 ## Part A:  
 + If statements are done with just the "if" keyword and a ':' at the end
 + You do not need to have () around a if statement but it will not error
 + You can use the below conditionals to compare
++ Instead of using {} you just indent with tab 
 
 | Condition | What it does             |
 |-----------|--------------------------|
@@ -72,50 +73,48 @@ if not var:
 
 
 ## Part B:If else statements 
-+ Else
++ TO include an else statement you go back on your tabs and type "else:" 
 ```python
-
+var  = True
+if var:
+    print("Value is True")
+else:
+    print("Value is false")
 ```
-+ else if
++ Else if in python is "elif:"
++ An else if can be included anywhere after an if and before and else as long as it is aligned with the indent 
 ```python
-
-```
-+ 
-```python
-
-```
-#### You Try
-+ 
-
-
-## Part C: 
-+ 
-```python
-
-```
-+ 
-```python
-
-```
-+ 
-```python
-
+var  = 10
+if var == 9:
+    print("Var = 9")
+elif var == 8:
+    print("Var is 8")
+else:
+    print("Var is neither 8 or 9")
 ```
 #### You Try
-+ 
++ Make a num value and print a message if it is positive and something different if it is negetive
++ Make a num value and print whether someone is baby,child,teen,adult, or old
 
-## Part D: 
-+ 
+
+## Part C User Input: 
++ To get user input in python you assign a variable to input("The message you want to show before the input")
 ```python
-
-```
-+ 
-```python
-
-```
-+ 
-```python
-
+inputVar = input()
+print(inputVar)
 ```
 #### You Try
-+ 
++ Take input from the user and print it 
++ Take a input for a username and password form the user and check if sign in is valid 
+
+## Part D Casting: 
++ To cast var you assign a variable to a type(var_you_cast)
+```python
+num = 10
+num2 = float(num)
+print(num2)
+# 0.0
+```
+#### You Try
++ Take a number input from the user cast it to a int, add 10 to it and print it
+  + Note: If you run into errors do not care we will worry about it later
