@@ -17,6 +17,7 @@ better for new programmers and is just more fun to use.
 #### To install:
 1. Download Jetbrains toolbox https://www.jetbrains.com/lp/toolbox/ using all the default options
 2. Locate and download Pycharm
+3. OR download pycharm directly(No auto updates) https://www.jetbrains.com/pycharm/download/?section=windows
 #### Set up this project:
 1. Click "Get from VCS" at the top 
 2. Click "Repository URL" on the left sidebar
