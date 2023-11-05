@@ -1,12 +1,12 @@
 # Part One
 ## In This Lesson
-#### Printing
-#### Comments
-#### Variables 
-#### Math
+#### [Printing](#part-a-printing)
+#### [Comments](#part-b-comments)
+#### [Variables](#part-c-variables)
+#### [Math](#part-d-math)
 
 
-## Part A: Printing 
+## Part A: Printing
 + To print all you do is put print("") and whatever you want to print in the ""
 + You can print any type but only one type at once
 ```python

@@ -1,10 +1,10 @@
 # Part Three
 
 ## In This Lesson
-#### For Loops
-#### While Loops
-#### Try Except(Simple)
-#### Methods
+#### [For Loops](#part-a-for-loops-)
+#### [While Loops](#part-b-while-loops-)
+#### [Try Except(Simple)](#part-c-try-except-)
+#### [Methods](#part-d-methods-)
 
 
 ## Part A For Loops:  
@@ -70,7 +70,7 @@ while num <100:
 + Print out the odd numbers 1-100 using a while loop 
 
 
-## Part C Try Except(Simple): 
+## Part C Try Except: 
 + Try Except is how to track for error(especially in user input) in python
 ```python
 try:

@@ -1,13 +1,14 @@
 # Part Two
 
 ## In This Lesson
-#### If statements
-#### If else statements
-#### User Input
-#### Casting
+#### [If statements](#part-a-if-statements-)
+#### [If else statements](#part-b-if-else-statements)
+#### [User Input](#part-c-user-input-)
+#### [Casting](#part-d-casting-)
 
 
-## Part A:  
+
+## Part A If Statements:  
 + If statements are done with just the "if" keyword and a ':' at the end
 + You do not need to have () around a if statement but it will not error
 + You can use the below conditionals to compare
@@ -72,7 +73,7 @@ if not var:
 + Create a String value and check if it is a String and print var 
 
 
-## Part B:If else statements 
+## Part B If else statements:
 + TO include an else statement you go back on your tabs and type "else:" 
 ```python
 var  = True
