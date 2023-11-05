@@ -107,6 +107,21 @@ var4a = 11%10 #1
 var4b = 5%13 # 3
 var5 = 10*10 # 100
 ```
++ To simplify operations you can combine with equals to add to a var 
+
+| Math | What it does                     |
+|------|----------------------------------|
+| +=   | Addition                         |
+| -=   | Subtraction                      |
+| /=   | Division                         |
+| *=   | Multiply                         |
+```python
+var1 = 10 
+var1 += 10 # 20 Instead of var1 = var1+10
+var1 -=10 # 10
+var1 /=10 # 1
+var1 *=10 # 10
+```
 
 #### You try:
 + Create a variable for 168 and a variable for 187

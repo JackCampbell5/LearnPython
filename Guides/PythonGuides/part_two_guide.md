@@ -35,7 +35,7 @@ if num == 10:
 ```python
 # num is initialized to an Integer so checking if it is an integer 
 num = 10
-if num is int:
+if type(num) is int:
     print("Num is an Integer")
 ```
 + To check 2 conditions you use the and operator by simply typing and
