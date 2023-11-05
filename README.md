@@ -14,3 +14,8 @@ This is a course to learn how to learn python and how to code and use it in the 
 2. Follow the guide on how to create a new [Anaconda Prompt](Guides/anaconda.md) and create new env called LearnPython
 3. Follow the guide in [Guide to Code in Python](Guides/PythonIntro.md) and follow the lessons
 4. Try the practice projects when you think you are ready
+### Why learn Python?
++ Easier syntax for beginners
++ Data science
++ Web Server Processing
++ Easily make windows applications to do what you want
