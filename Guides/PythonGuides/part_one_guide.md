@@ -104,7 +104,7 @@ var2 = 10-10 # 0
 var3 = 10/10 # 1
 var4 = 10%10 # 0
 var4a = 11%10 #1
-var4b = 5%13 # 3
+var4b = 13%5 # 3
 var5 = 10*10 # 100
 ```
 + To simplify operations you can combine with equals to add to a var 
